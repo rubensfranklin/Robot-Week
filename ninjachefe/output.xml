@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.1 (Python 3.8.3 on win32)" generated="20200710 18:23:38.667" rpa="false">
+<suite id="s1" name="Cadastro" source="C:\Meus Projetos\Robot Week\ninjachefe\cadastro.robot">
+<test id="s1-t1" name="Cadastro Simples">
+<kw name="Dado que acesso a página principal">
+<msg timestamp="20200710 18:23:38.698" level="FAIL">No keyword with name 'Dado que acesso a página principal' found.</msg>
+<status status="FAIL" starttime="20200710 18:23:38.698" endtime="20200710 18:23:38.698"></status>
+</kw>
+<status status="FAIL" starttime="20200710 18:23:38.696" endtime="20200710 18:23:38.698" critical="yes">No keyword with name 'Dado que acesso a página principal' found.</status>
+</test>
+<doc>Suite dos Casos de Teste</doc>
+<status status="FAIL" starttime="20200710 18:23:38.670" endtime="20200710 18:23:38.701"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Cadastro">Cadastro</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
