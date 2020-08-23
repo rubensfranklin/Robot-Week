@@ -14,3 +14,5 @@ Então devo ser autenticado
     Wait Until Page Contains Element        class:dashboard     
 
 
+Então devo ver a mensagem "${expect_message}"
+     Wait Until Element Contains        class:alert     ${expect_message}
